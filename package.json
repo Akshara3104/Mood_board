@@ -1,0 +1,32 @@
+{
+  "name": "emotion-atlas",
+  "version": "1.0.0",
+  "description": "A vintage-styled emotion tracking web application that visualizes emotional patterns like historical maps",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "d3": "^7.8.5",
+    "date-fns": "^2.30.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "styled-components": "^6.0.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "vite": "^4.5.13"
+  },
+  "keywords": [
+    "emotion",
+    "tracking",
+    "data-visualization",
+    "vintage",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT"
+}
